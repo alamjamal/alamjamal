@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">✨ Creating bugs since 2017 <br>🏊‍♂️ Pro Swimmer<br>🎯 Goals not decided yet<br>🎲 Fun fact I am human</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alamjamal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=alamjamal&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -10,7 +14,7 @@
 
 ###
 
-<h3 align="left">Join me on my journey 🏂 of creating microservices using Node.js!  📬Subscribe to my YouTube 😍channel for in-depth tutorials, 📔 practical tips, and insights into building 🧑‍💻 robust and scalable microservices architectures. 🎡</h3>
+<h3 align="left">Join me on my journey 🏂 of creating microservices using Node.js!  📬Visit to my YouTube 😍channel for building 🧑‍💻 robust and scalable microservices architectures. 🎡</h3>
 
 ###
 
@@ -18,6 +22,16 @@
   <a href="https://www.youtube.com/alamjamal88" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=150k Views&color=FF0000&logoColor=white&labelColor=&style=plastic" height="30" alt="youtube logo"  />
   </a>
+</div>
+
+###
+
+<h3 align="left">Give Love to My Blog ❤️</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="40" alt="medium logo"  />
 </div>
 
 ###
@@ -64,7 +78,11 @@
 
 ###
 
-<div align="left">
+<p align="left">Connect With Me</p>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/alamjamal/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -80,12 +98,6 @@
   <a href="https://stackoverflow.com/users/7331585/alam-jamal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
   </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=alamjamal88&theme=default" alt="Layout with last medium posts"  />
 </div>
 
 ###
