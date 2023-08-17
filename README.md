@@ -30,8 +30,8 @@
 
 ###
 
-<div align="center">
-  <a href="https://medium.com/@alamjamal88" target="_blank">
+<div align="center" >
+  <a href="https://medium.com/@alamjamal88" target="_blank" rel="noopener">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="40" alt="medium logo"  />
   </a>
 </div>
@@ -94,7 +94,7 @@
   <a href="https://www.youtube.com/alamjamal88" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://medium.com/@alamjamal88" target="_blank">
+  <a href="https://medium.com/@alamjamal88" target="_blank" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
   <a href="https://stackoverflow.com/users/7331585/alam-jamal" target="_blank">
