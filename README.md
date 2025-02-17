@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alam Jamal and I'm a MERN Stack Developer 😉</h2>
+<h2 align="left">Hi 👋! My name is Alam Jamal and I'm a C++ Stack Developer 😉</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">Join me on my journey 🏂 of creating microservices using Node.js!  📬Visit to my YouTube 😍channel for building 🧑‍💻 robust and scalable microservices architectures. 🎡</h3>
+<h3 align="left">Join me on my journey 🏂 of creating microservices using C++!  📬Visit to my YouTube 😍channel for building 🧑‍💻 robust and scalable microservices architectures. 🎡</h3>
 
 ###
 
