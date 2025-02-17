@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Alam Jamal and I'm a C++ Stack Developer 😉</h2>
+<h2 align="left">Hi 👋! My name is Alam Jamal and I'm a C++ Developer 😉</h2>
 
 ###
 
